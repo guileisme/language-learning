@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5SXgr7Sx1wA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Guilherme\\language-learning\\fsharp\\MyFSharpApp\\MyFSharpApp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Guilherme\\.nuget\\packages\\fsharp.core\\9.0.202\\fsharp.core.9.0.202.nupkg.sha512"
+  ],
+  "logs": []
+}
